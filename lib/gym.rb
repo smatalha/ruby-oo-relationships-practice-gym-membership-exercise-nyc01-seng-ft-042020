@@ -24,8 +24,7 @@ class Gym
     memberships.map { |m| m.lifter.name}
   end
 
-    def lift_total
-
-    memberships.select { |m| m.lifter}
+    def lifters_lift_total
+    memberships.select { |m| m.lifter.lift_total}
   end
 end
