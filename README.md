@@ -28,7 +28,7 @@ Here's what we need to be able to do.
 
   - Get a list of all the gyms that a specific lifter has memberships to
 
-  - Get the average lift total of all lifters
+  #- Get the average lift total of all lifters
 
   - Get the total cost of a specific lifter's gym memberships
 
@@ -48,4 +48,4 @@ Here's what we need to be able to do.
 
   - Get a list of the names of all lifters that have a membership to that gym
 
-  - Get the combined lift total of every lifter has a membership to that gym
+  #- Get the combined lift total of every lifter has a membership to that gym
